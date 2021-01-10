@@ -6,3 +6,4 @@ set mouse=a
 set viminfo='10,<100,:100,%,n~/.vim/.viminfo
 set laststatus=2
 set showtabline=2
+set pastetoggle=<F3>
